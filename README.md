@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Brian!
+My name is Brian! <-- That's an old picture of me from my office in Kendall Sq at the Broad Institute (7CC/415M) when I had more hair : )
 
 - 🔭 I’m currently working on VMware + Active Direcory administration and automation, with a focus on PowerShell...
 
