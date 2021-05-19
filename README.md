@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Brian!
+
+- 🔭 I’m currently working on VMware + Active Direcory administration and automation, with a focus on PowerShell...
+
+
 <!--
 **briandmaher/briandmaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
